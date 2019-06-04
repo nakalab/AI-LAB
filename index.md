@@ -1,7 +1,9 @@
 # KIT AI LAB
 
 ## Recent Topic
-
+- 物語の始まり
+- ....
+- ...
 ## About Research
 
 - 2019 年度
@@ -15,6 +17,9 @@
 ## Member
 
 - 2019年度
+  - 大学院生
+  - 学部生
+  - 高専生
 
 ## Access
 
